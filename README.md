@@ -1,6 +1,6 @@
 <h1 align="left" style="font-family: Arial, sans-serif;">Hey 👋 What's up?</h1>
 
-<p align="left" style="font-family: Arial, sans-serif;">My name is Senthilkumar and I'm interested in Fullstack development..👨‍💻</p>
+<p align="left" style="font-family: Verdana;">My name is Senthilkumar and I'm interested in Fullstack development..👨‍💻</p>
 
 <h2 align="left" style="font-family: Arial, sans-serif;">About me</h2>
 
