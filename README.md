@@ -1,10 +1,13 @@
 <h1 align="left" style="font-family: Arial, sans-serif;">Hey 👋 What's up?</h1>
 
-<p align="left" style="font-family: cursive;">My name is Senthilkumar and I'm interested in Fullstack development..👨‍💻</p>
+<p align="left" style="font-family: Arial, sans-serif;">My name is Senthilkumar and I'm interested in Fullstack development..👨‍💻</p>
 
 <h2 align="left" style="font-family: Arial, sans-serif;">About me</h2>
 
-<p align="left" style="font-family: cursive;">✨ I have a strong passion for Web development and enjoy working on projects that solve real-world problems.<br>📚 I'm currently learning MERN stack..<br></p>
+<p align="left" style="font-family: cursive;">
+✨ I have a strong passion for Web development and enjoy working on projects that solve real-world problems.<br>
+📚 I'm currently learning MERN stack.
+</p>
 
 <h2 align="left" style="font-family: Arial, sans-serif;">I code with </h2>
 
