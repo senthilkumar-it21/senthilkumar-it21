@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Senthilkumar and I'm interseted in Fullstack development..👨‍💻</p>
 
 ###
 
@@ -10,11 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+<p align="left">✨ I have a strong passion for Web development and enjoy working on projects that solve real-world problems.<br>📚 I'm currently learning MERN stack..<br>🎯 </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with </h2>
 
 ###
 
