@@ -6,9 +6,6 @@
 
 <p align="left" style="font-family: cursive;">
 ✨ I have a strong passion for Web development and enjoy working on projects that solve real-world problems.<br>
-📚 I'm currently learning MERN stack.
-</p>
-
 <p align="left" style="font-family: cursive;">
 🌱 I’m currently learning <strong>React js, Springboot, Mongodb, Node js</strong>
 </p>
