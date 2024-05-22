@@ -11,7 +11,7 @@
 ###
 
 
-<p align="left">✨ I have a strong passion for Web development and enjoy working on projects that solve real-world problems.<br>📚 I'm currently learning MERN stack..<br>🎯 </p>
+<p align="left">✨ I have a strong passion for Web development and enjoy working on projects that solve real-world problems.<br>📚 I'm currently learning MERN stack..<br></p>
 
 ###
 
